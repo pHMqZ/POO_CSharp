@@ -12,6 +12,14 @@ namespace Estoque {
             return Preco * Quantidade;
         }
 
+        public void AdicionarProdutos(int quantidade) {
+            Quantidade += quantidade;
+        }
+
+        public void RetirarProdutos(int quantidade) {
+            Quantidade -= quantidade;
+        }
+
         public override string ToString() {
             return Nome
                 + ", $ "
