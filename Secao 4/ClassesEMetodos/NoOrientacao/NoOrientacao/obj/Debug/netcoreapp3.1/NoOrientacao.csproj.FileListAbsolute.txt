@@ -1,0 +1,14 @@
+C:\Users\phsilva\Documents\Cursos\C#\Secao 4\ClassesEMetodos\NoOrientacao\NoOrientacao\bin\Debug\netcoreapp3.1\NoOrientacao.exe
+C:\Users\phsilva\Documents\Cursos\C#\Secao 4\ClassesEMetodos\NoOrientacao\NoOrientacao\bin\Debug\netcoreapp3.1\NoOrientacao.deps.json
+C:\Users\phsilva\Documents\Cursos\C#\Secao 4\ClassesEMetodos\NoOrientacao\NoOrientacao\bin\Debug\netcoreapp3.1\NoOrientacao.runtimeconfig.json
+C:\Users\phsilva\Documents\Cursos\C#\Secao 4\ClassesEMetodos\NoOrientacao\NoOrientacao\bin\Debug\netcoreapp3.1\NoOrientacao.runtimeconfig.dev.json
+C:\Users\phsilva\Documents\Cursos\C#\Secao 4\ClassesEMetodos\NoOrientacao\NoOrientacao\bin\Debug\netcoreapp3.1\NoOrientacao.dll
+C:\Users\phsilva\Documents\Cursos\C#\Secao 4\ClassesEMetodos\NoOrientacao\NoOrientacao\bin\Debug\netcoreapp3.1\NoOrientacao.pdb
+C:\Users\phsilva\Documents\Cursos\C#\Secao 4\ClassesEMetodos\NoOrientacao\NoOrientacao\obj\Debug\netcoreapp3.1\NoOrientacao.csproj.AssemblyReference.cache
+C:\Users\phsilva\Documents\Cursos\C#\Secao 4\ClassesEMetodos\NoOrientacao\NoOrientacao\obj\Debug\netcoreapp3.1\NoOrientacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\phsilva\Documents\Cursos\C#\Secao 4\ClassesEMetodos\NoOrientacao\NoOrientacao\obj\Debug\netcoreapp3.1\NoOrientacao.AssemblyInfoInputs.cache
+C:\Users\phsilva\Documents\Cursos\C#\Secao 4\ClassesEMetodos\NoOrientacao\NoOrientacao\obj\Debug\netcoreapp3.1\NoOrientacao.AssemblyInfo.cs
+C:\Users\phsilva\Documents\Cursos\C#\Secao 4\ClassesEMetodos\NoOrientacao\NoOrientacao\obj\Debug\netcoreapp3.1\NoOrientacao.csproj.CoreCompileInputs.cache
+C:\Users\phsilva\Documents\Cursos\C#\Secao 4\ClassesEMetodos\NoOrientacao\NoOrientacao\obj\Debug\netcoreapp3.1\NoOrientacao.dll
+C:\Users\phsilva\Documents\Cursos\C#\Secao 4\ClassesEMetodos\NoOrientacao\NoOrientacao\obj\Debug\netcoreapp3.1\NoOrientacao.pdb
+C:\Users\phsilva\Documents\Cursos\C#\Secao 4\ClassesEMetodos\NoOrientacao\NoOrientacao\obj\Debug\netcoreapp3.1\NoOrientacao.genruntimeconfig.cache
